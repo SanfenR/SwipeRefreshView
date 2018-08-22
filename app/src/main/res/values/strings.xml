@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SwipeRefreshView</string>
+
+
+    <string name="pull_refresh">下拉刷新</string>
+    <string name="loosen_refresh">松开刷新</string>
+    <string name="refreshing">努力加载中…</string>
+</resources>
